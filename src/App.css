@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  margin-top:100px; 
+}
+
+button{
+  margin: 10px;
+  background-color: brown;
+  color: azure;
+  padding: 8px;
+  border: none;
+  border-radius: 6px;
+}
+
+input{
+  padding: 5px;
+  width: 200px;
+}
+
+p{
+  font-size: 18px;
+  color: brown;
+}
+
+
